@@ -1,0 +1,1 @@
+SMS-GATEWAY - permite trimiterea de sms-uri nelimitate in toate retelele mobile din Romania dar si mesaje personalizate(sender personalizat), beneficiile serviciilor premium sunt nelimitate, de la campanii SMS, pana la SMS-Marketing, promotii, etc ..
